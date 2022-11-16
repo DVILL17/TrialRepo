@@ -1,0 +1,13 @@
+name = "TrialRepo"
+uuid = "b8ae8aa5-dbf4-4968-beda-dc5d12f4eb2a"
+authors = ["danvil <69361955+DVILL17@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
